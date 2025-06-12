@@ -1,6 +1,0 @@
-mu-legend-evo-web/
-├── index.html
-├── styles/       # Renombrado de css/ para coincidir con tu repo
-│   └── style.css
-└── scripts/     # Renombrado de js/
-    └── main.js
